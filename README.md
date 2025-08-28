@@ -153,8 +153,6 @@ This produces `train.bin` and `validation.bin` used by training.
 - Ensure enough disk space for memmaps.
 - Use a GPU runtime for speed (e.g., Colab: Runtime > Change runtime type > GPU).
 
-## License
-Add a `LICENSE` file (e.g., MIT) if you plan to distribute.
 
 ## Acknowledgements
 - Inspired by nanoGPT utilities
